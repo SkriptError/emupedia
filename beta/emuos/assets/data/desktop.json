@@ -20,8 +20,8 @@
 		"singleinstance": true,
 		"share": true
 	} , {
-		"name": "EmuChatgfds",
-		"title": "Under Development",
+		"name": "EmuChat",
+		"title": "Under Development shat",
 		"icon": "assets/images/icons/desktop/emuchat",
 		"link": "https://emuchat.emupedia.net/",
 		"width": 900,
