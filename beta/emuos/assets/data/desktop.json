@@ -527,7 +527,7 @@
 	} , {
 		"name": "Doom 1",
 		"icon": "assets/images/icons/desktop/doom1",
-		"link": "https://emupedia.net/emupedia-game-doom1/asmjs/",
+		"link": "/emupedia-game-doom1/asmjs/",
 		"credits": "Website: <a href=\"https://wadcmd.com/\" target=\"_blank\">wadcmd.com</a><br /><br />Author: <a href=\"https://github.com/lazarv\" target=\"_blank\">github.com/lazarv</a><br />Repository: <a href=\"https://github.com/lazarv/wasm-doom\" target=\"_blank\">github.com/lazarv/wasm-doom</a><br />License: <a href=\"https://github.com/lazarv/wasm-doom/blob/master/COPYING.md\" target=\"_blank\">GPL-2.0</a><br /><br />Original Project<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/DOOM\" target=\"_blank\">github.com/id-Software/DOOM</a><br />License: <a href=\"https://www.gamers.org/pub/idgames/source/doomsrc.txt\" target=\"_blank\">DSL / GPL-2.0</a><br /><br />All other assets<hr />Copyright Microsoft (formerly ZeniMax Media, Bethesda Softworks, id Software)",
 		"disclaimer_abandoned": true,
 		"width": 640,
@@ -542,7 +542,7 @@
 	} , {
 		"name": "Doom 2: Hell on Earth",
 		"icon": "assets/images/icons/desktop/doom2",
-		"link": "https://emupedia.net/emupedia-game-doom2/asmjs/",
+		"link": "/emupedia-game-doom2/asmjs/",
 		"credits": "Website: <a href=\"https://wadcmd.com/\" target=\"_blank\">wadcmd.com</a><br /><br />Author: <a href=\"https://github.com/lazarv\" target=\"_blank\">github.com/lazarv</a><br />Repository: <a href=\"https://github.com/lazarv/wasm-doom\" target=\"_blank\">github.com/lazarv/wasm-doom</a><br />License: <a href=\"https://github.com/lazarv/wasm-doom/blob/master/COPYING.md\" target=\"_blank\">GPL-2.0</a><br /><br />Original Project<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/DOOM\" target=\"_blank\">github.com/id-Software/DOOM</a><br />License: <a href=\"https://www.gamers.org/pub/idgames/source/doomsrc.txt\" target=\"_blank\">DSL / GPL-2.0</a><br /><br />All other assets<hr />Copyright Microsoft (formerly ZeniMax Media, Bethesda Softworks, id Software)",
 		"disclaimer_abandoned": true,
 		"width": 640,
@@ -557,7 +557,7 @@
 	} , {
 		"name": "Doom 3",
 		"icon": "assets/images/icons/desktop/doom3",
-		"link": "https://emupedia.net/emupedia-game-doom3/",
+		"link": "/emupedia-game-doom3/",
 		"credits": "Website: <a href=\"https://www.continuation-labs.com/projects/d3wasm/\" target=\"_blank\">continuation-labs.com/projects/d3wasm</a><br /><br />Author: <a href=\"https://github.com/gabrielcuvillier\" target=\"_blank\">github.com/gabrielcuvillier</a><br />Repository: <a href=\"https://github.com/gabrielcuvillier/d3wasm\" target=\"_blank\">github.com/gabrielcuvillier/d3wasm</a><br />License: <a href=\"https://github.com/gabrielcuvillier/d3wasm/blob/master/COPYING.txt\" target=\"_blank\">GPL-3.0</a><br /><br />Original Project<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/DOOM-3\" target=\"_blank\">github.com/id-Software/DOOM-3</a><br />License: <a href=\"https://github.com/id-Software/DOOM-3/blob/master/COPYING.txt\" target=\"_blank\">GPL-3.0</a><br /><br />All other assets<hr />Copyright Microsoft (formerly ZeniMax Media, Bethesda Softworks, id Software)",
 		"disclaimer": true,
 		"width": 640,
@@ -567,7 +567,7 @@
 	} , {
 		"name": "Quake 1",
 		"icon": "assets/images/icons/desktop/quake1",
-		"link": "https://emupedia.net/emupedia-game-quake1/",
+		"link": "/emupedia-game-quake1/",
 		"credits": "Author: <a href=\"https://github.com/triang3l\" target=\"_blank\">github.com/triang3l</a><br />Repository: <a href=\"https://github.com/triang3l/webquake\" target=\"_blank\">github.com/triang3l/webquake</a><br />License: <a href=\"https://github.com/triang3l/webquake/blob/master/GNU.md\" target=\"_blank\">GPL-2.0</a><br /><br />Original Project<hr />Author: <a href=\"https://github.com/id-Software\" target=\"_blank\">github.com/id-Software</a><br />Repository: <a href=\"https://github.com/id-Software/Quake\" target=\"_blank\">github.com/id-Software/Quake</a><br />License: <a href=\"https://github.com/id-Software/Quake/blob/master/gnu.txt\" target=\"_blank\">GPL-2.0</a><br /><br />All other assets<hr />Copyright Microsoft (formerly ZeniMax Media, Bethesda Softworks, id Software)",
 		"disclaimer_abandoned": true,
 		"width": 640,
