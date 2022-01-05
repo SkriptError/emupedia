@@ -714,7 +714,7 @@
 		"name": "Minecraft Singleplayer",
 		"title": "Under Development",
 		"icon": "assets/images/icons/desktop/minecraft-classic",
-		"link": "https://emupedia.net/emupedia-game-minecraft-classic/",
+		"link": "https://mineblockclassic.tk/",
 		"credits": "Website: <a href=\"https://classic.minecraft.net/\" target=\"_blank\">classic.minecraft.net</a><br /><br />Author: <a href=\"https://github.com/andyhall\" target=\"_blank\">github.com/andyhall</a><br />Repository: <a href=\"https://github.com/andyhall/noa\" target=\"_blank\">github.com/andyhall/noa</a><br />License: <a href=\"https://github.com/andyhall/noa/blob/master/LICENSE.txt\" target=\"_blank\">MIT</a><br /><br />All other assets<hr />Copyright Microsoft (formerly Mojang)",
 		"disclaimer": true,
 		"width": 900,
