@@ -20,7 +20,7 @@
 		"singleinstance": true,
 		"share": true
 	} , {
-		"name": "EmuChat",
+		"name": "EmuChatgfds",
 		"title": "Under Development",
 		"icon": "assets/images/icons/desktop/emuchat",
 		"link": "https://emuchat.emupedia.net/",
