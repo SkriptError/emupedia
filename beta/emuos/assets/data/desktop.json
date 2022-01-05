@@ -99,7 +99,7 @@
 		"name": "Sandbox",
 		"title": "Under Development",
 		"icon": "assets/images/icons/desktop/sandbox",
-		"link": "/emupedia-app-sandbox/?repo=Emupedia/emupedia-app-sandbox/contents/examples?ref=master&baseurl=/emupedia-app-romcenter/&capsule=%3Cbody%3E&capsule=%3C/body%3E",
+		"link": "https://emupedia.net/emupedia-app-sandbox/?repo=Emupedia/emupedia-app-sandbox/contents/examples?ref=master&baseurl=/emupedia-app-romcenter/&capsule=%3Cbody%3E&capsule=%3C/body%3E",
 		"width": 900,
 		"height": 480,
 		"newtab": true,
