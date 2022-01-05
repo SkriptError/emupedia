@@ -21,7 +21,7 @@
 		"share": true
 	} , {
 		"name": "EmuChat",
-		"title": "Under Development shat",
+		"title": "Under Development",
 		"icon": "assets/images/icons/desktop/emuchat",
 		"link": "https://emuchat.emupedia.net/",
 		"width": 900,
@@ -534,7 +534,7 @@
 		"height": 400,
 		"requires": {
 			"webassembly": {
-				"link": "/emupedia-game-doom1/"
+				"link": "https://emupedia.net/emupedia-game-doom1/"
 			}
 		},
 		"newtab": true,
@@ -549,7 +549,7 @@
 		"height": 400,
 		"requires": {
 			"webassembly": {
-				"link": "/emupedia-game-doom2/"
+				"link": "https://emupedia.net/emupedia-game-doom2/"
 			}
 		},
 		"newtab": true,
